@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/stephecw/stephecw/main/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif" width="300"/>
 
 <h3>📫 Connect with me</h3>
 
@@ -25,6 +25,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
   </a>
 </p>
-
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300"/>
