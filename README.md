@@ -8,7 +8,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/stephecw/stephecw/main/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif" width="300"/>
 
-<h3>📫 Connect with me</h3>
+<h3> Connect with me</h3>
 
 <p align="left">
   <!-- LinkedIn -->
