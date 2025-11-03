@@ -19,5 +19,13 @@ Here are some ideas to get you started:
 Applied Mathematics and Machine/Deep Learning student from Paris<br>
 </p>
 
----
+### 📫 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/stephane-eilles-chan-way" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:stephane.eillesc@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" alt="Email"/>
+  </a>
+</p>
