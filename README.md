@@ -1,31 +1,28 @@
-## Hi, I'm Stéphane Eilles-Chan Way 👋
-
-<!--
-**stephecw/stephecw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Stéphane Eilles-Chan Way 👋</h1>
 
 <p align="center">
-Applied Mathematics and Machine/Deep Learning student from Paris<br>
+  <strong>An Applied Mathematics and Machine/Deep Learning student from Paris</strong>
 </p>
 
-### 📫 Connect with me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+## 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/stephane-eilles-chan-way" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/stephane.eilles-chan-way" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:stephane.eillesc@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" alt="Email"/>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/stephaneeilles" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" alt="Kaggle"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/stephecw/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
   </a>
 </p>
+
+
+
