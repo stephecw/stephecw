@@ -4,13 +4,13 @@
   <strong>An Applied Mathematics and Machine/Deep Learning student from Paris</strong>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 
 ## 📫 Connect with me:
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/stephane.eilles-chan-way" target="_blank">
+  <a href="https://www.linkedin.com/in/stephane-eilles-chan-way" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   <!-- Kaggle -->
@@ -24,5 +24,5 @@
   </a>
 </p>
 
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
