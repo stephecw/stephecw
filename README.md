@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Stéphane Eilles-Chan Way 👋</h1>
+<h1 align="center">Hi, I'm Stéphane Eilles-Chan Way </h1>
 
 <p align="center">
   <strong>An Applied Mathematics and Machine/Deep Learning student from Paris</strong>
 </p>
 
+<br>
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## 📫 Connect with me:
+<h3>📫 Connect with me</h3>
 
 <p align="left">
   <!-- LinkedIn -->
@@ -24,5 +26,5 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300"/>
